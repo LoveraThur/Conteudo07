@@ -45,7 +45,4 @@ while True:
                         else:
                             print('You is Minhoca')
                             break
-print('\033[34mEnd Of Program\033[m')
-
-
-        
+print('\033[34mEnd Of Program\033[m')       
